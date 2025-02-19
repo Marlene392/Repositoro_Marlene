@@ -2,9 +2,9 @@
 
 ## Integrantes del equipo
 
-- **Nombre completo de segundo integrante**
-- **Nombre completo de segundo integrante**
-- **Nombre completo del tercer integrante**
+- Marlene Falcón Vázquez
+- Brenda Viridiana Rodarte
+
 
 ## Indicaciones
 
